@@ -15,7 +15,7 @@ Un’analisi approfondita sul grado di istruzione della popolazione italiana pu�
 
 Fonte: **[dataset utilizzato](http://dati.istat.it/Index.aspx?DataSetCode=DCCV_POPTIT1)**.
 
-Il documento è disponibile al seguente indirizzo:**[Primo progetto](https://flavio-96.github.io/Progetti-statistica-e-analisi-dei-dati/SAD-tesina-parte_1.html)**.
+Il documento è disponibile al seguente indirizzo: **[Indagine statistica](https://flavio-96.github.io/Progetti-statistica-e-analisi-dei-dati/SAD-tesina-parte_1.html)**.
 
 ## Distribuzione normale
 Il secondo progetto ha come scopo quello di fornire le nozioni e le conoscenze di base sulla distribuzione di probabilità continua **normale** e di mostrare tramite quest'ultima le applicazioni delle **tecniche dell'inferenza statistica**.\
@@ -23,4 +23,4 @@ Lo scopo della statistica inferenziale è quello di **derivare le caratteristich
 L'utilizzo che faremo dunque dell'inferenza statistica è quello di studiare una popolazione descritta da una variabile aleatoria avente distribuzione normale e ottenere delle stime sui **parametri non noti** e verificare delle **ipotesi**.
 Nel documento dunque sono presentate varie sezioni. Nella prima viene introdotta la distribuzione normale enunciandone e analizzando caratteristiche e proprietà. Nei capitoli successivi vengono trattate le tecniche di **stima puntuale** e **stima intervallare**, e successivamente l'argomento della **verifica delle ipotesi**.
 
-Il documento è disponibile al seguente indirizzo:**[Primo progetto](https://flavio-96.github.io/Progetti-statistica-e-analisi-dei-dati/SAD-tesina-parte_2.html)**.
+Il documento è disponibile al seguente indirizzo: **[Analisi distribuzione normale](https://flavio-96.github.io/Progetti-statistica-e-analisi-dei-dati/SAD-tesina-parte_2.html)**.
